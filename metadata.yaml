@@ -1,0 +1,48 @@
+_repo: Sophonisbale-poly-langage-et-graves-sentences-dont-elle-est-orn-e_29279
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Saint-Gelais, Mellin de
+    birthdate: 1491
+    deathdate: 1558
+    gutenberg_agent_id: '33814'
+    url: http://www.gutenberg.org/2009/agents/33814
+    wikipedia: http://en.wikipedia.org/wiki/Mellin_de_Saint-Gelais
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trissino, Giovanni Giorgio
+    alias: Trissino, Giangiorgio
+    birthdate: 1478
+    deathdate: 1550
+    gutenberg_agent_id: '33812'
+    url: http://www.gutenberg.org/2009/agents/33812
+    wikipedia: http://en.wikipedia.org/wiki/Gian_Giorgio_Trissino
+  editor:
+    agent_name: Corrozet, Gilles
+    alias: Corrozet, Aegidius
+    birthdate: 1510
+    deathdate: 1568
+    gutenberg_agent_id: '33813'
+    url: http://www.gutenberg.org/2009/agents/33813
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2009-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29279'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Sophonisba, -203 B.C. -- Drama'
+title: 'Sophonisba
+
+  Tragedie tresexcellente, tant pour l''argument, que pour
+
+  le poly langage et graves sentences dont elle est ornée'
+url: http://www.gutenberg.org/ebooks/29279
